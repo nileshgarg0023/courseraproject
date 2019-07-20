@@ -24,7 +24,7 @@ p{
 }
 
 #Chicken {
-	background-color: lightcoral;
+	background-color: cyan;
 	position: relative;
 	left:65%;
 	width:35%;
@@ -35,7 +35,7 @@ p{
 
 }
 #Beef {
-	background-color: #A52A2A;
+	background-color: red;
 	color:white;
 	position: relative;
 	left:65%;
@@ -46,7 +46,7 @@ p{
 	font-size: 18.75px;
 }
 #Sushi {
-	background-color: khaki;
+	background-color: violet;
 	position: relative;	
 	left:65%;
 	width:35%;
