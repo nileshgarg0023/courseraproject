@@ -5,7 +5,7 @@
 body
 
 {
-	font-family:Comic Sans MS;
+	font-family:Open Sans;
 }
 p {
 	
@@ -14,6 +14,7 @@ p {
   margin-bottom: 10px;
   margin-top: 20px;
   height:150px;
+  overflow: auto;
 }
 h1
 {
@@ -21,6 +22,7 @@ h1
 	margin-top: 30px;
   margin-bottom: 50px;
   text-align: center;
+
 	
 }
 section {
@@ -28,7 +30,8 @@ section {
   border: 1px solid black;
   margin: 10px;
   height: auto;
-  background-color: #F3EE61 ;
+  background-color: orange ;
+  
 }
 h2{
   float: right;
@@ -40,14 +43,14 @@ h2{
   border-left: 1px solid black;
   border-bottom: 1px solid black;
 }
-#pizza{
-	background-color: red;
+#french{
+	background-color: Cyan;
 }
-#burger{
-	background-color:green;
+#Ham{
+	background-color:red;
 }
-#pasta{
-	background-color: blue;
+#wings{
+	background-color: violet;
 }
 .col-lg-4,.col-md-6, .col-md-12, .col-sm-12 {
     background-color: white;
