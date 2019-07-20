@@ -5,7 +5,7 @@
 body
 
 {
-	font-family: Helvetica;
+	font-family:Open Sans;
 }
 p {
 	
@@ -31,7 +31,7 @@ section {
   margin: 10px;
   height: auto;
   background-color: orange ;
-
+  
 }
 h2{
   float: right;
